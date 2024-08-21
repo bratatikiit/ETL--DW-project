@@ -1,4 +1,4 @@
-﻿# ETL--DW-project
+﻿# ETL-DW-project
  Projekt: IT-Modernisierung für Immobilienmakler (Schmidt AG)
 
 1. Projektüberblick
