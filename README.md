@@ -1,18 +1,18 @@
-﻿# ETL-DW-project
- Projekt: IT-Modernisierung für Immobilienmakler (Schmidt AG)
+##  ETL-DW-project
+ **rojekt: IT-Modernisierung für Immobilienmakler (Schmidt AG)**
 
-1. Projektüberblick
+**1. Projektüberblick**
 Ziel: Einführung eines integrierten IT-Systems für einen Immobilienmakler in Köln.
 Auftraggeber: Schmidt AG, Abteilung externes IT-Consulting
 Ansprechpartner: Herr Teske, Geschäftsführer des Immobilienmaklerbüros
-Zeitraum: [04.3.24] - [28.3.24]
+**Zeitraum: [04.3.24] - [28.3.24]**
 Scope:
 Erstellung eines detaillierten Datenmodells (ERM)
 Umsetzung in eine relationale Datenbank
 Design eines Data Warehouse
 Entwicklung eines Data Quality Konzepts
 Erstellung einer Präsentation für den Kunden
-2. Technische Umgebung
+**2. Technische Umgebung**
 Tools:
 Miro/draw.io für ERD
 SQLite/SQL Server für Datenbanken
